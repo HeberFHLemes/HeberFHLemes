@@ -21,7 +21,10 @@ Atualmente estou focando no estudo de desenvolvimento com Java e Spring Boot, ma
 
 ### 🛠 Frameworks e ferramentas mais utilizadas
 
-![Spring Framework](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white&logoSize=auto) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white&logoSize=auto) ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Spring Framework](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white&logoSize=auto) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white&logoSize=auto) ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto) 
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-red?style=for-the-badge&logo=Thymeleaf&logoColor=white&logoSize=auto&color=%23005F0F) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3) 
 
 ### 📬 Contato
