@@ -1,31 +1,35 @@
- 
 ## Olá! 👋 
 
 ### 🪶 Sobre mim
 
 <div align='justify'> 
  
-Me chamo Héber e este é meu GitHub, onde posto alguns projetos realizados, principalmente para estudos.
+##### Me chamo Héber e este é meu GitHub, onde posto alguns projetos realizados, principalmente para estudos.
 
-Aproveite para dar uma conferida, aceito contribuições e feedbacks!
+##### Aproveite para dar uma conferida, aceito contribuições e feedbacks!
 
-Atualmente estou focando no estudo de desenvolvimento com Java e Spring Boot, mas também utilizo Python e C.
+##### Atualmente estou focando no estudo de desenvolvimento com Java e Spring Boot, mas também utilizo Python e C.
 
 </div>
 
-### 💻 Linguagens mais utilizadas
+<div align='center'>
+ 
+ ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black) ![C](https://img.shields.io/badge/_-white?style=for-the-badge&logo=C&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoSize=auto)
 
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&color=blue) ![C](https://img.shields.io/badge/_-white?style=for-the-badge&logo=C&logoColor=white&color=blue) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow&logoSize=auto&color=blue) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto&color=%23E34F26) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto&color=%23663399)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=HeberFHLemes&theme=great-gatsby)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberFHLemes&locale=pt-br&layout=compact&theme=github_dark">
+ ![Spring Framework](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white&logoSize=auto) ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-red?style=for-the-badge&logo=Thymeleaf&logoColor=white&logoSize=auto&color=%23005F0F) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3) 
 
-### 🛠 Frameworks e ferramentas mais utilizadas
-
-![Spring Framework](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white&logoSize=auto) ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&logoSize=auto) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto&color=%23FF6C37) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-red?style=for-the-badge&logo=Thymeleaf&logoColor=white&logoSize=auto&color=%23005F0F) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=auto&color=%237952B3) ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=Docker&logoColor=E5F2FC&logoSize=auto)
+ ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto&color=%23FF6C37) ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=Docker&logoColor=E5F2FC&logoSize=auto) 
+ 
+</div>
 
 ### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&color=blue)](https://www.linkedin.com/in/heber-fh-lemes)
+
+<div align='right'>
+
 
 <details>  
  <summary> 
@@ -34,8 +38,8 @@ Atualmente estou focando no estudo de desenvolvimento com Java e Spring Boot, ma
  
  </summary> 
  
-> Badges criadas com [shiels.io](https://shields.io/)
-> 
-> Card de linguagens mais usadas criado com [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> Badges: [shiels.io](https://shields.io/) | Cards: [streak-stats](https://git.io/streak-stats)
  
 </details>
+
+</div>
