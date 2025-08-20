@@ -12,8 +12,12 @@
 
 </div>
 
+---
+
 <div align='center'>
  
+### 💻 Stack & Stats
+
  ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black) ![C](https://img.shields.io/badge/_-white?style=for-the-badge&logo=C&logoColor=black) ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoSize=auto)
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=HeberFHLemes&theme=great-gatsby)](https://git.io/streak-stats)
@@ -23,6 +27,8 @@
  ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white&logoSize=auto&color=%23FF6C37) ![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=Docker&logoColor=E5F2FC&logoSize=auto) 
  
 </div>
+
+---
 
 ### 📬 Contato
 
