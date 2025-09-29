@@ -8,7 +8,7 @@
 
 ##### Aproveite para dar uma conferida, aceito contribuições e feedbacks!
 
-##### Atualmente estou focando no estudo de desenvolvimento com Java e Spring Boot, mas também utilizo Python e C.
+##### Atualmente estou focando em estudar desenvolvimento back-end com Java e Spring, mas também utilizo Python, C e outras ferramentas e frameworks.
 
 </div>
 
