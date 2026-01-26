@@ -38,7 +38,7 @@
  
  </summary> 
  
-> Badges: [shiels.io](https://shields.io/) | Cards: [streak-stats](https://git.io/streak-stats)
+ Badges: [shields.io](https://shields.io/) | Cards: [streak-stats](https://git.io/streak-stats)
  
 </details>
 
